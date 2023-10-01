@@ -1,0 +1,21 @@
+com.example.flutter_bloc_application.app-browser-1.4.0-0 C:\Users\dkmad\.gradle\caches\transforms-3\1a035b9e656dabb0a9dcbfd78ad07b4d\transformed\browser-1.4.0\res
+com.example.flutter_bloc_application.app-jetified-window-java-1.0.0-beta04-1 C:\Users\dkmad\.gradle\caches\transforms-3\9e83de80a94ecbb01df57a12ddd1b037\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_bloc_application.app-jetified-play-services-base-18.0.1-2 C:\Users\dkmad\.gradle\caches\transforms-3\aadc32cdb00d11698224a96f5cd6e06e\transformed\jetified-play-services-base-18.0.1\res
+com.example.flutter_bloc_application.app-jetified-firebase-common-20.3.3-3 C:\Users\dkmad\.gradle\caches\transforms-3\ae25332896b303b6be133aa7acc1d786\transformed\jetified-firebase-common-20.3.3\res
+com.example.flutter_bloc_application.app-core-1.6.0-4 C:\Users\dkmad\.gradle\caches\transforms-3\b11abbe563a8f6723a9e6c0a078d9a9c\transformed\core-1.6.0\res
+com.example.flutter_bloc_application.app-jetified-annotation-experimental-1.1.0-5 C:\Users\dkmad\.gradle\caches\transforms-3\d161b1a0b762b4e3f0158c1dcfeda117\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_bloc_application.app-jetified-play-services-basement-18.2.0-6 C:\Users\dkmad\.gradle\caches\transforms-3\e1cce54709add9e9f93e63d99a3a4f2a\transformed\jetified-play-services-basement-18.2.0\res
+com.example.flutter_bloc_application.app-jetified-window-1.0.0-beta04-7 C:\Users\dkmad\.gradle\caches\transforms-3\ed7709bad8cfbbb8ddc794f8d1c01758\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_bloc_application.app-jetified-play-services-auth-20.6.0-8 C:\Users\dkmad\.gradle\caches\transforms-3\edff41df0263065e7ee74f9bec47ad51\transformed\jetified-play-services-auth-20.6.0\res
+com.example.flutter_bloc_application.app-debug-9 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\android\app\src\debug\res
+com.example.flutter_bloc_application.app-main-10 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\android\app\src\main\res
+com.example.flutter_bloc_application.app-google-services-11 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\generated\res\google-services\debug
+com.example.flutter_bloc_application.app-pngs-12 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\generated\res\pngs\debug
+com.example.flutter_bloc_application.app-resValues-13 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\generated\res\resValues\debug
+com.example.flutter_bloc_application.app-rs-14 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\generated\res\rs\debug
+com.example.flutter_bloc_application.app-mergeDebugResources-15 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_bloc_application.app-mergeDebugResources-16 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_bloc_application.app-merged_res-17 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\app\intermediates\merged_res\debug
+com.example.flutter_bloc_application.app-packaged_res-18 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\firebase_auth\intermediates\packaged_res\debug
+com.example.flutter_bloc_application.app-packaged_res-19 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\firebase_core\intermediates\packaged_res\debug
+com.example.flutter_bloc_application.app-packaged_res-20 C:\flutter projects\flutter_bloc_testapp\flutter_bloc_app\flutter_bloc_application\build\google_sign_in_android\intermediates\packaged_res\debug
